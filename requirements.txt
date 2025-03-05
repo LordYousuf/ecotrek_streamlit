@@ -16,3 +16,4 @@ jupyter
 pyyaml
 tqdm
 python-dotenv
+wordcloud
