@@ -6,4 +6,4 @@ scikit-learn
 matplotlib
 requests
 rich
-flask
+openpyxl
