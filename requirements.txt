@@ -4,6 +4,15 @@ numpy
 streamlit
 scikit-learn
 matplotlib
+seaborn
 requests
 rich
 openpyxl
+statsmodels
+flask
+scipy
+xlrd
+jupyter
+pyyaml
+tqdm
+python-dotenv
